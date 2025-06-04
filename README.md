@@ -11,5 +11,6 @@ Parse & Stringify JSON in Scratch
   https://gitblock.cn/Projects/1401940  
   https://world.xiaomawang.com/community/main/compose/PA40666J  
   https://www.cocrea.world/@bddjr/BeetJSON  
-  
+  https://axopl.com/project_play/756  
+  https://40code.com/#page=work&id=1229  
 
