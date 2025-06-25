@@ -1,4 +1,4 @@
-<img width="400" src="BeetJSON.png"/>
+<img width="480" height="360" src="BeetJSON.png"/>
 
 Parse & Stringify JSON in Scratch
 
